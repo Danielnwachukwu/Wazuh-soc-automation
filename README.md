@@ -1,4 +1,4 @@
-# Wazuh SOC Automation
+# SIEM SOC Automation
 
 This project demonstrates a Security Operations Center (SOC) automation script that parses Wazuh SIEM alerts and classifies security events based on attack type and severity level.
 
